@@ -1,0 +1,21 @@
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.exe.config
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.exe
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.pdb
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro_Biblioteca.frmBiblioteca.resources
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro_Biblioteca.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.exe
+C:\Users\Alumno\source\repos\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\bin\Debug\pryArroyoLisandro-Biblioteca.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro_Biblioteca.frmBiblioteca.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro_Biblioteca.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoLisandro-Biblioteca\obj\Debug\pryArroyoLisandro-Biblioteca.pdb
